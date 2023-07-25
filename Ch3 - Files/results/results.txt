@@ -1,0 +1,15 @@
+Total bytecount:17385
+Files list:
+--------------
+archive.zip: 6874 bytes.
+challenge_solution.py: 981 bytes.
+chapter_challenge.py: 1494 bytes.
+files_finished.py: 926 bytes.
+files_start.py: 815 bytes.
+newfile.txt: 410 bytes.
+ospathutils_finished.py: 1189 bytes.
+ospathutils_start.py: 1148 bytes.
+shell_finished.py: 1076 bytes.
+shell_start.py: 1014 bytes.
+testzip.zip: 1048 bytes.
+textfile.txt.bak: 410 bytes.
